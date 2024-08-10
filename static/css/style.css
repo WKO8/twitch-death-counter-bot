@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'Bubble';
+    src: url(../fonts/bubble.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Peinture';
+    src: url(../fonts/peinture.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Street Art';
+    src: url(../fonts/street-art.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+    font-family: 'Bubble', Helvetica, sans-serif;
+    font-size: 5rem;
+    font-weight: normal;
+    color: white;
+    margin: 0;
+}

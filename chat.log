@@ -1770,3 +1770,49 @@
 2024-08-10_17:10:46 — 127.0.0.1 - - [10/Aug/2024 17:10:46] "GET /socket.io/?EIO=4&transport=polling&t=P4zwZfO&sid=zpYVilYkfzJilHg7AAAE HTTP/1.1" 200 -
 2024-08-10_17:10:58 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=mods
 
+2024-08-10_17:58:57 — :tmi.twitch.tv 001 klodivil :Welcome, GLHF!
+:tmi.twitch.tv 002 klodivil :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 klodivil :This server is rather new
+:tmi.twitch.tv 004 klodivil :-
+:tmi.twitch.tv 375 klodivil :-
+:tmi.twitch.tv 372 klodivil :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 klodivil :>
+
+2024-08-10_17:58:57 — :klodivil!klodivil@klodivil.tmi.twitch.tv JOIN #wkofps
+:klodivil.tmi.twitch.tv 353 klodivil = #wkofps :klodivil
+:klodivil.tmi.twitch.tv 366 klodivil #wkofps :End of /NAMES list
+
+2024-08-10_18:01:59 — 127.0.0.1 - - [10/Aug/2024 18:01:59] "GET / HTTP/1.1" 200 -
+2024-08-10_18:01:59 — 127.0.0.1 - - [10/Aug/2024 18:01:59] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-08-10_18:01:59 — 127.0.0.1 - - [10/Aug/2024 18:01:59] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-08-10_18:01:59 — 127.0.0.1 - - [10/Aug/2024 18:01:59] "GET /socket.io/?EIO=4&transport=polling&t=P4-6I3L HTTP/1.1" 200 -
+2024-08-10_18:01:59 — 127.0.0.1 - - [10/Aug/2024 18:01:59] "POST /socket.io/?EIO=4&transport=polling&t=P4-6I3_&sid=SGr60OOMG9DPWpP0AAAC HTTP/1.1" 200 -
+2024-08-10_18:01:59 — 127.0.0.1 - - [10/Aug/2024 18:01:59] "GET /static/fonts/bubble.ttf HTTP/1.1" 200 -
+2024-08-10_18:01:59 — 127.0.0.1 - - [10/Aug/2024 18:01:59] "GET /socket.io/?EIO=4&transport=polling&t=P4-6I41&sid=SGr60OOMG9DPWpP0AAAC HTTP/1.1" 200 -
+2024-08-10_18:02:00 — 127.0.0.1 - - [10/Aug/2024 18:02:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-10_18:02:00 — 127.0.0.1 - - [10/Aug/2024 18:02:00] "GET /socket.io/?EIO=4&transport=polling&t=P4-6I5N&sid=SGr60OOMG9DPWpP0AAAC HTTP/1.1" 200 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "GET / HTTP/1.1" 200 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "GET /socket.io/?EIO=4&transport=polling&t=P4-6ViC HTTP/1.1" 200 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "GET /static/fonts/bubble.ttf HTTP/1.1" 200 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "POST /socket.io/?EIO=4&transport=polling&t=P4-6Vio&sid=VVQ-Vv87EjG85nZ5AAAE HTTP/1.1" 200 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "GET /socket.io/?EIO=4&transport=polling&t=P4-6Viq&sid=VVQ-Vv87EjG85nZ5AAAE HTTP/1.1" 200 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "GET /socket.io/?EIO=4&transport=polling&t=P4-6Vjc&sid=VVQ-Vv87EjG85nZ5AAAE HTTP/1.1" 200 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-10_18:02:16 — 127.0.0.1 - - [10/Aug/2024 18:02:16] "GET /socket.io/?EIO=4&transport=polling&t=P4-6VkG&sid=VVQ-Vv87EjG85nZ5AAAE HTTP/1.1" 200 -
+2024-08-10_18:03:01 — 127.0.0.1 - - [10/Aug/2024 18:03:01] "GET /socket.io/?EIO=4&transport=websocket&sid=VVQ-Vv87EjG85nZ5AAAE HTTP/1.1" 200 -
+2024-08-10_18:03:01 — 127.0.0.1 - - [10/Aug/2024 18:03:01] "GET /socket.io/?EIO=4&transport=websocket&sid=SGr60OOMG9DPWpP0AAAC HTTP/1.1" 200 -
+2024-08-10_18:09:35 — 127.0.0.1 - - [10/Aug/2024 18:09:35] "[33mGET /tn_2kU3CVuXBllUlR3gAuaq2XPdG1g HTTP/1.1[0m" 404 -
+2024-08-10_18:10:38 — 127.0.0.1 - - [10/Aug/2024 18:10:38] "GET / HTTP/1.1" 200 -
+2024-08-10_18:10:38 — 127.0.0.1 - - [10/Aug/2024 18:10:38] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-08-10_18:10:38 — 127.0.0.1 - - [10/Aug/2024 18:10:38] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-08-10_18:10:39 — 127.0.0.1 - - [10/Aug/2024 18:10:39] "GET /socket.io/?EIO=4&transport=polling&t=P4-8GsX HTTP/1.1" 200 -
+2024-08-10_18:10:39 — 127.0.0.1 - - [10/Aug/2024 18:10:39] "GET /static/fonts/bubble.ttf HTTP/1.1" 200 -
+2024-08-10_18:10:39 — 127.0.0.1 - - [10/Aug/2024 18:10:39] "POST /socket.io/?EIO=4&transport=polling&t=P4-8GtE&sid=yd9ryEcntE8H2WCjAAAG HTTP/1.1" 200 -
+2024-08-10_18:10:39 — 127.0.0.1 - - [10/Aug/2024 18:10:39] "GET /socket.io/?EIO=4&transport=polling&t=P4-8GtF&sid=yd9ryEcntE8H2WCjAAAG HTTP/1.1" 200 -
+2024-08-10_18:10:39 — 127.0.0.1 - - [10/Aug/2024 18:10:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-10_18:10:39 — 127.0.0.1 - - [10/Aug/2024 18:10:39] "GET /socket.io/?EIO=4&transport=polling&t=P4-8Gut&sid=yd9ryEcntE8H2WCjAAAG HTTP/1.1" 200 -
+2024-08-10_18:10:49 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :+morreu
+
+2024-08-10_18:10:53 — 127.0.0.1 - - [10/Aug/2024 18:10:53] "GET /socket.io/?EIO=4&transport=websocket&sid=yd9ryEcntE8H2WCjAAAG HTTP/1.1" 200 -

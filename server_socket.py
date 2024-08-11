@@ -244,4 +244,4 @@ if __name__ == "__main__":
     twitch_thread.daemon = True
     twitch_thread.start()
 
-    socketio.run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 8000)), debug=True, use_reloader=False, async_mode='eventlet')
+    socketio.run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 8000)), debug=True, use_reloader=False, async_mode='gevent')

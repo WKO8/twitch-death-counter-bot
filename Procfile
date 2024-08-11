@@ -1,1 +1,1 @@
-web: gunicorn server_socket:app
+web: gunicorn server_socket:app --timeout 120

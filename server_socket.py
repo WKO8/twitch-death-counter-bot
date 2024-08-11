@@ -208,7 +208,7 @@ def show_mods(idx, sock):
     username = settings['username_and_message'][idx][0]
     if username == data['channel'].replace("#", ""):
         print(f"Mensagem de adicionar moderadores detectada, enviada por {username}")
-        sendMessage(sock, f"Mods: {', '.join(settings["mods"])}")
+        sendMessage(sock, f"Mods: {', '.join(settings['mods'])}")
         print(f"Mods: {settings['mods']}")
     else:
         sendMessage(sock, "Usuário sem permissão ou argumentos inválidos")

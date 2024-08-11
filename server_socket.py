@@ -16,11 +16,16 @@ def index():
 
 # Função para iniciar a conexão com o Twitch
 def startConnection():
-    f = open('settings.json')
     global data
-    data = json.load(f)
-    sock = socket.socket()
+    data = {
+        "server": os.environ.get("TWITCH_SERVER"),
+        "port": int(os.environ.get("TWITCH_PORT")),
+        "nickname": os.environ.get("TWITCH_NICKNAME"),
+        "token": os.environ.get("TWITCH_TOKEN"),
+        "channel": os.environ.get("TWITCH_CHANNEL")
+    }
 
+    sock = socket.socket()
     sock.connect((data["server"], data["port"]))
 
     sock.send(f"PASS {data['token']}\n".encode('utf-8'))
@@ -239,4 +244,4 @@ if __name__ == "__main__":
     twitch_thread.daemon = True
     twitch_thread.start()
 
-    socketio.run(app, host='0.0.0.0', port=8000)
+    socketio.run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 8000)), debug=True, use_reloader=False, async_mode='eventlet')

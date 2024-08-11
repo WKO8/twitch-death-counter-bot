@@ -5,6 +5,9 @@ from flask_socketio import SocketIO, emit
 from emoji import demojize
 import threading
 import re
+from dotenv import load_dotenv
+
+load_dotenv()
 
 app = Flask(__name__)
 socketio = SocketIO(app)
@@ -25,19 +28,22 @@ def startConnection():
         "channel": os.environ.get("TWITCH_CHANNEL")
     }
 
-    sock = socket.socket()
-    sock.connect((data["server"], data["port"]))
+    try:
+        sock = socket.socket()
+        sock.connect((data["server"], data["port"]))
 
-    sock.send(f"PASS {data['token']}\n".encode('utf-8'))
-    sock.send(f"NICK {data['nickname']}\n".encode('utf-8'))
-    sock.send(f"JOIN {data['channel']}\n".encode('utf-8'))
+        sock.send(f"PASS {data['token']}\n".encode('utf-8'))
+        sock.send(f"NICK {data['nickname']}\n".encode('utf-8'))
+        sock.send(f"JOIN {data['channel']}\n".encode('utf-8'))
 
-    logging.basicConfig(level=logging.DEBUG,
-                        format='%(asctime)s — %(message)s',
-                        datefmt='%Y-%m-%d_%H:%M:%S',
-                        handlers=[logging.FileHandler('chat.log', encoding='utf-8')])
-
-    return sock
+        logging.basicConfig(level=logging.DEBUG,
+                            format='%(asctime)s — %(message)s',
+                            datefmt='%Y-%m-%d_%H:%M:%S',
+                            handlers=[logging.FileHandler('chat.log', encoding='utf-8')])
+        return sock
+    except Exception as e:
+        logging.error(f"Error starting connection: {e}")
+        sys.exit(1)
 
 @socketio.on('connect')
 def handle_connect():
@@ -244,4 +250,4 @@ if __name__ == "__main__":
     twitch_thread.daemon = True
     twitch_thread.start()
 
-    socketio.run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 8000)), debug=True, use_reloader=False, async_mode='gevent')
+    socketio.run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 8000)), debug=True)

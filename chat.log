@@ -1,0 +1,165 @@
+2024-08-11_16:34:09 — :tmi.twitch.tv 001 klodivil :Welcome, GLHF!
+:tmi.twitch.tv 002 klodivil :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 klodivil :This server is rather new
+:tmi.twitch.tv 004 klodivil :-
+:tmi.twitch.tv 375 klodivil :-
+:tmi.twitch.tv 372 klodivil :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 klodivil :>
+
+2024-08-11_16:34:10 — :klodivil!klodivil@klodivil.tmi.twitch.tv JOIN #daii_rp
+:klodivil.tmi.twitch.tv 353 klodivil = #daii_rp :klodivil
+:klodivil.tmi.twitch.tv 366 klodivil #daii_rp :End of /NAMES list
+
+2024-08-11_16:34:29 — 127.0.0.1 - - [11/Aug/2024 16:34:29] "GET / HTTP/1.1" 200 -
+2024-08-11_16:34:29 — 127.0.0.1 - - [11/Aug/2024 16:34:29] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-08-11_16:34:29 — 127.0.0.1 - - [11/Aug/2024 16:34:29] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-08-11_16:34:29 — 127.0.0.1 - - [11/Aug/2024 16:34:29] "GET /socket.io/?EIO=4&transport=polling&t=P52xr-0 HTTP/1.1" 200 -
+2024-08-11_16:34:29 — 127.0.0.1 - - [11/Aug/2024 16:34:29] "GET /static/fonts/bubble.ttf HTTP/1.1" 200 -
+2024-08-11_16:34:29 — 127.0.0.1 - - [11/Aug/2024 16:34:29] "POST /socket.io/?EIO=4&transport=polling&t=P52xr-H&sid=5NNIrNf0sG2lgo4FAAAA HTTP/1.1" 200 -
+2024-08-11_16:34:29 — 127.0.0.1 - - [11/Aug/2024 16:34:29] "GET /socket.io/?EIO=4&transport=polling&t=P52xr-K&sid=5NNIrNf0sG2lgo4FAAAA HTTP/1.1" 200 -
+2024-08-11_16:34:29 — 127.0.0.1 - - [11/Aug/2024 16:34:29] "GET /socket.io/?EIO=4&transport=polling&t=P52xr-U&sid=5NNIrNf0sG2lgo4FAAAA HTTP/1.1" 200 -
+2024-08-11_16:35:00 — :tmi.twitch.tv 001 klodivil :Welcome, GLHF!
+:tmi.twitch.tv 002 klodivil :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 klodivil :This server is rather new
+:tmi.twitch.tv 004 klodivil :-
+:tmi.twitch.tv 375 klodivil :-
+:tmi.twitch.tv 372 klodivil :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 klodivil :>
+
+2024-08-11_16:35:01 — :klodivil!klodivil@klodivil.tmi.twitch.tv JOIN #daii_rp
+:klodivil.tmi.twitch.tv 353 klodivil = #daii_rp :klodivil
+:klodivil.tmi.twitch.tv 366 klodivil #daii_rp :End of /NAMES list
+
+2024-08-11_16:35:16 — :tmi.twitch.tv 001 klodivil :Welcome, GLHF!
+:tmi.twitch.tv 002 klodivil :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 klodivil :This server is rather new
+:tmi.twitch.tv 004 klodivil :-
+:tmi.twitch.tv 375 klodivil :-
+:tmi.twitch.tv 372 klodivil :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 klodivil :>
+
+2024-08-11_16:35:16 — :klodivil!klodivil@klodivil.tmi.twitch.tv JOIN #wkofps
+:klodivil.tmi.twitch.tv 353 klodivil = #wkofps :klodivil
+:klodivil.tmi.twitch.tv 366 klodivil #wkofps :End of /NAMES list
+
+2024-08-11_16:35:17 — 127.0.0.1 - - [11/Aug/2024 16:35:17] "GET /socket.io/?EIO=4&transport=polling&t=P52y1cw HTTP/1.1" 200 -
+2024-08-11_16:35:17 — 127.0.0.1 - - [11/Aug/2024 16:35:17] "POST /socket.io/?EIO=4&transport=polling&t=P52y1c-&sid=kVPZuO_suwCbcmV_AAAA HTTP/1.1" 200 -
+2024-08-11_16:35:17 — 127.0.0.1 - - [11/Aug/2024 16:35:17] "GET /socket.io/?EIO=4&transport=polling&t=P52y1d0&sid=kVPZuO_suwCbcmV_AAAA HTTP/1.1" 200 -
+2024-08-11_16:35:20 — 127.0.0.1 - - [11/Aug/2024 16:35:20] "GET /socket.io/?EIO=4&transport=websocket&sid=kVPZuO_suwCbcmV_AAAA HTTP/1.1" 200 -
+2024-08-11_16:35:20 — 127.0.0.1 - - [11/Aug/2024 16:35:20] "GET / HTTP/1.1" 200 -
+2024-08-11_16:35:20 — 127.0.0.1 - - [11/Aug/2024 16:35:20] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-08-11_16:35:20 — 127.0.0.1 - - [11/Aug/2024 16:35:20] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-08-11_16:35:20 — 127.0.0.1 - - [11/Aug/2024 16:35:20] "GET /socket.io/?EIO=4&transport=polling&t=P52y2Xy HTTP/1.1" 200 -
+2024-08-11_16:35:20 — 127.0.0.1 - - [11/Aug/2024 16:35:20] "GET /static/fonts/bubble.ttf HTTP/1.1" 200 -
+2024-08-11_16:35:20 — 127.0.0.1 - - [11/Aug/2024 16:35:20] "POST /socket.io/?EIO=4&transport=polling&t=P52y2YA&sid=P08rNrhf-e0SRrmBAAAC HTTP/1.1" 200 -
+2024-08-11_16:35:20 — 127.0.0.1 - - [11/Aug/2024 16:35:20] "GET /socket.io/?EIO=4&transport=polling&t=P52y2YB&sid=P08rNrhf-e0SRrmBAAAC HTTP/1.1" 200 -
+2024-08-11_16:35:26 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :+morreu
+
+2024-08-11_16:35:29 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :+morreu
+
+2024-08-11_16:35:34 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=cooldown 0
+
+2024-08-11_16:35:42 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :+morreu
+
+2024-08-11_16:35:47 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :+morreu
+
+2024-08-11_16:35:58 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :-morreu
+
+2024-08-11_16:36:01 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :-morreu
+
+2024-08-11_16:36:04 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=morreu 20
+
+2024-08-11_16:36:06 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :+morreu
+
+2024-08-11_16:36:08 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :+morreu
+
+2024-08-11_16:36:11 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=mods
+
+2024-08-11_16:36:29 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :!morreu
+
+2024-08-11_16:38:52 — 127.0.0.1 - - [11/Aug/2024 16:38:52] "GET /socket.io/?EIO=4&transport=polling&t=P52ysBQ HTTP/1.1" 200 -
+2024-08-11_16:38:52 — 127.0.0.1 - - [11/Aug/2024 16:38:52] "POST /socket.io/?EIO=4&transport=polling&t=P52ysBV&sid=EJ8v4rHvP7Qu6KefAAAA HTTP/1.1" 200 -
+2024-08-11_16:38:52 — 127.0.0.1 - - [11/Aug/2024 16:38:52] "GET /socket.io/?EIO=4&transport=polling&t=P52ysBW&sid=EJ8v4rHvP7Qu6KefAAAA HTTP/1.1" 200 -
+2024-08-11_16:38:52 — :tmi.twitch.tv 001 klodivil :Welcome, GLHF!
+:tmi.twitch.tv 002 klodivil :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 klodivil :This server is rather new
+:tmi.twitch.tv 004 klodivil :-
+:tmi.twitch.tv 375 klodivil :-
+:tmi.twitch.tv 372 klodivil :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 klodivil :>
+
+2024-08-11_16:38:52 — :klodivil!klodivil@klodivil.tmi.twitch.tv JOIN #wkofps
+:klodivil.tmi.twitch.tv 353 klodivil = #wkofps :klodivil
+:klodivil.tmi.twitch.tv 366 klodivil #wkofps :End of /NAMES list
+
+2024-08-11_16:39:06 — 127.0.0.1 - - [11/Aug/2024 16:39:06] "GET /socket.io/?EIO=4&transport=websocket&sid=EJ8v4rHvP7Qu6KefAAAA HTTP/1.1" 200 -
+2024-08-11_16:39:06 — 127.0.0.1 - - [11/Aug/2024 16:39:06] "GET / HTTP/1.1" 200 -
+2024-08-11_16:39:06 — 127.0.0.1 - - [11/Aug/2024 16:39:06] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-08-11_16:39:06 — 127.0.0.1 - - [11/Aug/2024 16:39:06] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-08-11_16:39:06 — 127.0.0.1 - - [11/Aug/2024 16:39:06] "GET /static/fonts/bubble.ttf HTTP/1.1" 200 -
+2024-08-11_16:39:06 — 127.0.0.1 - - [11/Aug/2024 16:39:06] "GET /socket.io/?EIO=4&transport=polling&t=P52yvaS HTTP/1.1" 200 -
+2024-08-11_16:39:06 — 127.0.0.1 - - [11/Aug/2024 16:39:06] "POST /socket.io/?EIO=4&transport=polling&t=P52yvab&sid=9xXgF1WiV8ZkbgNnAAAC HTTP/1.1" 200 -
+2024-08-11_16:39:06 — 127.0.0.1 - - [11/Aug/2024 16:39:06] "GET /socket.io/?EIO=4&transport=polling&t=P52yvad&sid=9xXgF1WiV8ZkbgNnAAAC HTTP/1.1" 200 -
+2024-08-11_16:39:06 — 127.0.0.1 - - [11/Aug/2024 16:39:06] "GET /socket.io/?EIO=4&transport=polling&t=P52yvan&sid=9xXgF1WiV8ZkbgNnAAAC HTTP/1.1" 200 -
+2024-08-11_16:39:10 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=morreu 0
+
+2024-08-11_16:39:24 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=cooldown 0
+
+2024-08-11_16:39:42 — :streamelements!streamelements@streamelements.tmi.twitch.tv PRIVMSG #wkofps :Obrigado por me seguir ymuzzi1 :)
+
+2024-08-11_16:39:43 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :+morreu 1
+
+2024-08-11_16:40:00 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :+morreu
+
+2024-08-11_16:40:09 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :=morreu1
+
+2024-08-11_16:40:21 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps := morreu 32
+
+2024-08-11_16:40:30 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :=morreu 32
+
+2024-08-11_16:40:39 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :=morreu5
+
+2024-08-11_16:40:40 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :+mods ymuzzi1
+
+2024-08-11_16:40:42 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=mods
+
+2024-08-11_16:40:51 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :=morreu 32
+
+2024-08-11_16:41:07 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps := morreu 91348038725982435193467879t6248975631087945638075462340756347630287562348976378946230875637846318074631057863486031754630786317546310746314508673107136470813
+
+2024-08-11_16:41:29 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :+morreu 1803274389758713847319756437613847386503465301865139746731563984673970560579136409813675073164097136491835613746073165720641390461307561370463017561309746137561307563174561307956310756310746130563104761307561307456317546130795613756130756317546137561356130571630576130576130756137561307560137651370645130796540913456
+
+2024-08-11_16:41:51 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :-morreu
+
+2024-08-11_16:42:01 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=morreu 391239129312931293912391239128312938192381923891283912839128391823918239128391283912839128391283912381293
+
+2024-08-11_16:42:12 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=morreu 0
+
+2024-08-11_16:42:14 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :=morreu 0
+
+2024-08-11_16:42:31 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :=morreu gay
+
+2024-08-11_16:42:43 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :=morreu 1 0 3 2 13
+
+2024-08-11_16:42:48 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=morreu 0.2
+
+2024-08-11_16:42:52 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=mods
+
+2024-08-11_16:43:00 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :-mods ymuzzi1
+
+2024-08-11_16:43:05 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=mods
+
+2024-08-11_16:43:20 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :=morreu 12
+
+2024-08-11_16:44:52 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :+morreu
+
+2024-08-11_16:44:53 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=cooldown 10
+
+2024-08-11_16:45:20 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :+morreu 32
+
+2024-08-11_16:45:25 — :ymuzzi1!ymuzzi1@ymuzzi1.tmi.twitch.tv PRIVMSG #wkofps :+morreu 231
+
+2024-08-11_16:53:14 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=morreu 0
+
+2024-08-11_16:53:16 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=mods
+

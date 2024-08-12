@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for site-dawn-dawn-2730 on 2024-08-12T10:43:43-03:00
+# fly.toml app configuration file generated for site-wild-smoke-1175 on 2024-08-12T10:47:24-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'site-dawn-dawn-2730'
+app = 'site-wild-smoke-1175'
 primary_region = 'gru'
 
 [build]

@@ -6,9 +6,11 @@ from emoji import demojize
 import threading
 import re
 from dotenv import load_dotenv
+import eventlet
 
 load_dotenv()
 
+eventlet.monkey_patch()
 app = Flask(__name__)
 socketio = SocketIO(app, async_mode='eventlet')
 app.debug = True

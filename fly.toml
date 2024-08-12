@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for site-aged-sky-4775 on 2024-08-12T10:17:30-03:00
+# fly.toml app configuration file generated for site-young-butterfly-7900 on 2024-08-12T10:32:30-03:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'site-aged-sky-4775'
+app = 'site-young-butterfly-7900'
 primary_region = 'gru'
 
 [build]

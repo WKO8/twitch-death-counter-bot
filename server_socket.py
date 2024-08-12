@@ -6,6 +6,7 @@ from emoji import demojize
 import threading
 import re
 from dotenv import load_dotenv
+from waitress import serve
 
 load_dotenv()
 
@@ -250,4 +251,5 @@ if __name__ == "__main__":
     twitch_thread.daemon = True
     twitch_thread.start()
 
-    socketio.run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 8000)), debug=True)
+    # socketio.run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 8000)), debug=True)
+    serve(app, host='0.0.0.0', port=int(os.environ.get("PORT", 8000)))

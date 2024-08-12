@@ -1,7 +1,7 @@
 import sys, os, socket, json, logging
 import time
 from flask import Flask, render_template
-from flask_socketio import SocketIO, emit
+from flask_socketio import SocketIO
 from emoji import demojize
 import threading
 import re
@@ -10,7 +10,9 @@ from dotenv import load_dotenv
 load_dotenv()
 
 app = Flask(__name__)
-socketio = SocketIO(app)
+socketio = SocketIO(app, async_mode='eventlet')
+app.debug = True
+
 
 # URL Routing — Home Page
 @app.route("/")

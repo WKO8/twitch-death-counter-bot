@@ -191,3 +191,26 @@
 
 2024-08-11_18:02:47 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :+morreu
 
+2024-08-12_11:30:25 — :tmi.twitch.tv 001 klodivil :Welcome, GLHF!
+:tmi.twitch.tv 002 klodivil :Your host is tmi.twitch.tv
+:tmi.twitch.tv 003 klodivil :This server is rather new
+:tmi.twitch.tv 004 klodivil :-
+:tmi.twitch.tv 375 klodivil :-
+:tmi.twitch.tv 372 klodivil :You are in a maze of twisty passages, all alike.
+:tmi.twitch.tv 376 klodivil :>
+
+2024-08-12_11:30:25 — :klodivil!klodivil@klodivil.tmi.twitch.tv JOIN #wkofps
+:klodivil.tmi.twitch.tv 353 klodivil = #wkofps :klodivil
+:klodivil.tmi.twitch.tv 366 klodivil #wkofps :End of /NAMES list
+
+2024-08-12_11:30:33 — :wkofps!wkofps@wkofps.tmi.twitch.tv PRIVMSG #wkofps :=morreu 20
+
+2024-08-12_11:30:38 — 127.0.0.1 - - [12/Aug/2024 11:30:38] "GET / HTTP/1.1" 200 -
+2024-08-12_11:30:38 — 127.0.0.1 - - [12/Aug/2024 11:30:38] "GET /static/css/style.css HTTP/1.1" 200 -
+2024-08-12_11:30:38 — 127.0.0.1 - - [12/Aug/2024 11:30:38] "GET /static/js/main.js HTTP/1.1" 200 -
+2024-08-12_11:30:38 — 127.0.0.1 - - [12/Aug/2024 11:30:38] "GET /socket.io/?EIO=4&transport=polling&t=P56_urh HTTP/1.1" 200 -
+2024-08-12_11:30:38 — 127.0.0.1 - - [12/Aug/2024 11:30:38] "POST /socket.io/?EIO=4&transport=polling&t=P56_urr&sid=c6qGGGKQEWPDn61IAAAA HTTP/1.1" 200 -
+2024-08-12_11:30:38 — 127.0.0.1 - - [12/Aug/2024 11:30:38] "GET /static/fonts/bubble.ttf HTTP/1.1" 200 -
+2024-08-12_11:30:38 — 127.0.0.1 - - [12/Aug/2024 11:30:38] "GET /socket.io/?EIO=4&transport=polling&t=P56_urs&sid=c6qGGGKQEWPDn61IAAAA HTTP/1.1" 200 -
+2024-08-12_11:30:38 — 127.0.0.1 - - [12/Aug/2024 11:30:38] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-08-12_11:30:42 — 127.0.0.1 - - [12/Aug/2024 11:30:42] "GET /socket.io/?EIO=4&transport=websocket&sid=c6qGGGKQEWPDn61IAAAA HTTP/1.1" 200 -

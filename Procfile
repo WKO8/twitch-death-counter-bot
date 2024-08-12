@@ -1,1 +1,1 @@
-web: gunicorn server_socket:app
+web: gunicorn --timeout 120 -k eventlet -w 1 server_socket:app

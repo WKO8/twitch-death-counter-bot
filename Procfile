@@ -1,1 +1,1 @@
-web: waitress-serve --host=0.0.0.0 --port=$PORT server_socket:app
+web: gunicorn -k gevent -w 1 --timeout 120 server_socket:app

@@ -6,7 +6,6 @@ from emoji import demojize
 import threading
 import re
 from dotenv import load_dotenv
-from waitress import serve
 
 load_dotenv()
 

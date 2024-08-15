@@ -1,16 +1,13 @@
-import sys, os, socket, json, logging
+import sys, os, socket, json
 import time
 from flask import Flask, render_template
 from flask_socketio import SocketIO
-from emoji import demojize
 import threading
 import re
 from dotenv import load_dotenv
-import eventlet
 
 load_dotenv()
 
-eventlet.monkey_patch()
 app = Flask(__name__)
 socketio = SocketIO(app, async_mode='eventlet')
 app.debug = True
@@ -40,13 +37,8 @@ def startConnection():
         sock.send(f"NICK {data['nickname']}\n".encode('utf-8'))
         sock.send(f"JOIN {data['channel']}\n".encode('utf-8'))
 
-        logging.basicConfig(level=logging.DEBUG,
-                            format='%(asctime)s — %(message)s',
-                            datefmt='%Y-%m-%d_%H:%M:%S',
-                            handlers=[logging.FileHandler('chat.log', encoding='utf-8')])
         return sock
     except Exception as e:
-        logging.error(f"Error starting connection: {e}")
         sys.exit(1)
 
 @socketio.on('connect')
@@ -66,8 +58,6 @@ def getMessages():
 
         if resp.startswith('PING'):
             sock.send("PONG\n".encode('utf-8'))
-        elif len(resp) > 0:
-            logging.info(demojize(resp))
 
         if match:
             user = match.group(1).strip(':!')
@@ -254,4 +244,4 @@ if __name__ == "__main__":
     twitch_thread.daemon = True
     twitch_thread.start()
 
-    socketio.run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 8080)))
+    socketio.run(app, host='0.0.0.0', port=int(os.environ.get("PORT", 5000)))
